@@ -5,6 +5,7 @@ public class MainOne {
     public static void main(String[] args) {
 
         Person sjaak = new Person("Nick");
+        // ga hier verder
 
     }
 }
